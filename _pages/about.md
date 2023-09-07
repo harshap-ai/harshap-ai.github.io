@@ -19,6 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 I'm currently a graduate student at the University of Waterloo in the [Vision and Image Processing group](https://uwaterloo.ca/vision-image-processing-lab/), supervised by Prof. [David Clausi](https://uwaterloo.ca/vision-image-processing-lab/people-profiles/david-clausi) and co-supervised by Prof. [John Zelek](https://www.eng.uwaterloo.ca/~jzelek/index.html). My research lies at the intersection of Sports and Computer Vision. I have interests in Machine Learning and Artificial Intelligence, in particular deep neural networks, transfer learning, and scalable methods. 
 
+I'm always on the lookout to collaborate on cool projects and relevant opportunities. Apart from that, I enjoy [cycling & running](https://www.strava.com/athletes/77142605) (Endurance), reading and writing about stuff that interests me. I've recently developed an interest towards swimming and playing guitar. 
+
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
