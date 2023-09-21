@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  What I tell you when 
-date: 2015-05-15 21:01:00
-description: this is what included images could look like
-tags: formatting images
-categories: sample-posts
+title:  What I talk about when i talk about running
+date: Sept 21, 2023 - Thursday 
+description: Just some random stuff 
+
+tags: books
+categories: books
 thumbnail: assets/img/9.jpg
 ---
-This is an example post with image galleries.
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
