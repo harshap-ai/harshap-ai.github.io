@@ -11,9 +11,10 @@ categories: books
 thumbnail: assets/img/murakami_running.jpeg
 ---
 
-<p align="center">
-  <img src="/assets/img/murakami_marathon.jpeg" width="90%" height="30%"/>
-</p>
+<figure style="text-align: center;">
+  <img src="/assets/img/murakami_marathon.jpeg" width="90%" height="30%" alt="Image description" style="display: block; margin: 0 auto;">
+  <figcaption>Murakami during one of his runs</figcaption>
+</figure>
 
 
 ---
