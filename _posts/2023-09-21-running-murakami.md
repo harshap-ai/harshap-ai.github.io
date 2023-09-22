@@ -4,7 +4,7 @@ title:  '<b> Review: What I Talk About When I Talk About Running </b>'
 author: 
 #Change the font-size @ _sass/_base.scss, line 427
 date: 2023-09-22
-description: Just some random stuff 
+description: Book review
 
 tags: 
 categories: books
