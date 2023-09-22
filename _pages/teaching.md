@@ -1,12 +1,21 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 5
 ---
+I usually TA for courses offered by the Systems Design Engineering Department at UW. I've TAed for two courses thus far: 
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- [SYDE 361](https://uwflow.com/course/syde361) : Systems Design Methods I - Needs, Analysis and Prototyping 
 
-Organize your courses by years, topics, or universities, however you like!
+&nbsp; &nbsp; &nbsp; Instructor: Matt Robichaud &#124; Term: Spring 2023 
+
+
+- [SYDE 292](https://uwflow.com/course/syde292) & [292L](https://uwflow.com/course/syde292l) : Electrics Circuits and Instrumentation
+
+&nbsp; &nbsp; &nbsp; Instructors: Charbel Azzi & Orion Bruckman &#124; Term: Fall 2023 
+
+
+

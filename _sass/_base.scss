@@ -424,6 +424,7 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  font-size: 30px;
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
@@ -442,7 +443,7 @@ footer.sticky-bottom {
 
     .post-meta {
       color: var(--global-text-color-light);
-      font-size: 0.875rem;
+      font-size: 0.6rem;
       margin-bottom: 0;
     }
 
