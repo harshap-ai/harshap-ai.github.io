@@ -7,7 +7,7 @@ subtitle: Graduate Student, University of Waterloo
 profile:
   align: right
   image: profile_picture.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Waterloo, Ontario, CA</p>
 
